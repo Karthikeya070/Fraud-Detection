@@ -1,0 +1,3 @@
+•	Developed a fraud detection pipeline comparing Logistic Regression, Random Forest, and XGBoost on 6.3M+ financial transactions, implementing SMOTE and class weighting to handle extreme class imbalance.
+•	Performed exploratory data analysis and engineered domain-specific features including balance error flags, account drain detection, and amount-to-balance ratios to capture high-risk behavioural patterns.
+•	Achieved 98% F1 score with Random Forest, detecting 1,638 out of 1,643 fraudulent transactions with 97% precision and 99% recall, outperforming Logistic Regression and XGBoost across all key metrics.
